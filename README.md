@@ -1,3 +1,3 @@
 # python
 
-Lista de exercícios resolvido em PYTHON
+Lista de exercícios resolvidos em PYTHON
